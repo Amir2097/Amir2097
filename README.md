@@ -1,5 +1,20 @@
 # Привет 👋 Меня зовут Амир!
 
+<img align="right" alt="GIF" height="200px" width="300px" src="Senior.gif" />
+
+## 🗒 Обо мне:
+- :computer: Программирую на языке Python
+- 💞️ Я Backend-разработчик, в настоящее время занимаюсь 
+веб-приложением на Flask (бесплатная стажировка, больше как получение опыта)
+- 👀 Нахожусь в поиске работы
+- Люблю программировать и каждый день занимаюсь этим
+- Не могу без спорта, отвергаю вредные привычки..
+___
+Технологии и инструменты, которые я использую:
+___
+
+
+**Социальные сети:**
 
 [![Telegram](icons/telegram.png)](https://t.me/Amirdautov)
 [![GitHub](icons/github.png)](https://github.com/Amir2097)
@@ -7,13 +22,6 @@
 [![Vk](icons/vkontakte.png)](https://vk.com/amirdautov)
 
 
-___ 
 
 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate for experience
-- 👀 Ask me about GitHub
-<!---- 📫 How to reach me ...
-Amir2097/Amir2097 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
