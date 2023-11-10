@@ -1,14 +1,12 @@
 # Привет 👋 Меня зовут Амир!
 
 
-
-
-**Социальные сети:**
-
 [![Telegram](icons/telegram.png)](https://t.me/Amirdautov)
 [![GitHub](icons/github.png)](https://github.com/Amir2097)
 [![WhatsApp](icons/whatsapp.png)](https://wa.me/79194000342)
 [![Vk](icons/vkontakte.png)](https://vk.com/amirdautov)
+
+
 ___ 
 
 
