@@ -1,4 +1,17 @@
-# Hi there👋 
+# Привет 👋 Меня зовут Амир!
+
+
+
+
+**Социальные сети:**
+
+[![Telegram](icons/telegram.png)](https://t.me/Amirdautov)
+[![GitHub](icons/github.png)](https://github.com/Amir2097)
+[![WhatsApp](icons/whatsapp.png)](https://wa.me/79194000342)
+[![Vk](icons/vkontakte.png)](https://vk.com/amirdautov)
+___ 
+
+
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate for experience
 - 👀 Ask me about GitHub
