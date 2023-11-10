@@ -11,7 +11,7 @@
 - 🏅 Не могу без спорта, отвергаю вредные привычки..
 ___
 <h2 align="left">:hammer_and_wrench: Технологии и инструменты, которые я использую:</h2>
-___
+
 [![Python](icons/python.png)](https://www.python.org/)
 [![SQL](icons/SQL.png)](https://wikipedia.org/wiki/SQL)
 [![Flask](icons/flask.png)](https://flask.palletsprojects.com/en/3.0.x/)
