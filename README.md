@@ -16,6 +16,7 @@ class Amir_dev:
     def __init__(self):
         self.username = 'amir_dev'
         self.name = 'Amir Dautov'
+        self.age = 26
         self.position = 'Python Software Developer'
         self.vk = 'https://vk.com/amirdautov'
         self.tg = '@Amirdautov'
