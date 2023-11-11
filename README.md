@@ -56,6 +56,9 @@ if __name__ == '__main__':
 [![Nginx](icons/nginx.png)](https://nginx.org/)
 
 
+<h2 align="left">⚡ Ранг на Codewars:</h2>
+
+![Codewars rank](https://www.codewars.com/users/Amir2097/badges/large)
 <h2 align="left">:heart: Всегда на связи:</h2>
 
 [![Telegram](icons/telegram.png)](https://t.me/Amirdautov)
