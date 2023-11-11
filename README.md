@@ -63,7 +63,9 @@ if __name__ == '__main__':
 
 <h2 align="left">:fire: Статистика:</h2>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Amir2097&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&text_color=999" alt="Amir's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir2097&layout=compact&hide_border=true&bg_color=00000000&text_color=999" />
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=Amir2097&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&text_color=999" alt="Amir's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir2097&layout=compact&hide_border=true&bg_color=00000000&text_color=999" />|
+| ------------- | ------------- |
+
 <h2 align="left">:heart: Всегда на связи:</h2>
 
 [![Telegram](icons/telegram.png)](https://t.me/Amirdautov)
