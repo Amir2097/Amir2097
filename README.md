@@ -10,6 +10,36 @@
 - 💞️ Люблю программировать и каждый день занимаюсь этим
 - 🏅 Не могу без спорта, отвергаю вредные привычки..
 
+```python
+class Amir_dev:
+
+    def __init__(self):
+        self.username = 'amir_dev'
+        self.name = 'Amir Dautov'
+        self.position = 'Python Software Developer'
+        self.vk = 'https://vk.com/amirdautov'
+        self.tg = '@Amirdautov'
+        self.instagram = 'amir_.23__'
+        self.code = {
+            'backend': ['Python', 'Flask', 'Django', 'FastAPI'],
+            'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB', 'Redis'],
+            'devops': ['Docker', 'Linux', 'GitHub Actions'],
+            'frontend': ['HTML', 'CSS', 'Boostrap'],
+            'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'SQLAlchemy', 'Celery', 'Nginx'],
+            'misc': ['Aiogram', 'Requests', 'Bs4', 'SOLID']
+        }
+        self.architecture = ['Microservices']
+
+    def __str__(self):
+        return f'{self.name} | {self.position}'
+
+
+if __name__ == '__main__':
+    me = Amir_dev()
+    print(me)
+    
+ ```
+
 <h2 align="left">:hammer_and_wrench: Технологии и инструменты, которые я использую:</h2>
 
 [![Python](icons/python.png)](https://www.python.org/)
