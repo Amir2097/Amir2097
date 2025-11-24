@@ -4,9 +4,7 @@
 
 ## 🗒 Обо мне:
 - :computer: Программирую на языке Python
-- :man_technologist: Я Backend-разработчик, в настоящее время занимаюсь 
-веб-приложением на Flask (бесплатная стажировка, больше как получение опыта)
-- 👀 Нахожусь в поиске работы
+- :man_technologist: Я Web-разработчик
 - 💞️ Люблю программировать и каждый день занимаюсь этим
 - 🏅 Не могу без спорта, отвергаю вредные привычки..
 
@@ -17,19 +15,10 @@ class Amir_dev:
         self.username = 'amir_dev'
         self.name = 'Amir Dautov'
         self.age = 26
-        self.position = 'Python Software Developer'
+        self.position = 'Software Developer'
         self.vk = 'https://vk.com/amirdautov'
         self.tg = '@Amirdautov'
         self.instagram = 'amir_.23__'
-        self.code = {
-            'backend': ['Python', 'Flask', 'Django', 'FastAPI'],
-            'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB', 'Redis'],
-            'devops': ['Docker', 'Linux', 'GitHub Actions'],
-            'frontend': ['HTML', 'CSS', 'Boostrap'],
-            'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'SQLAlchemy', 'Celery', 'Nginx'],
-            'misc': ['Aiogram', 'Requests', 'Bs4', 'SOLID']
-        }
-        self.architecture = ['Microservices']
 
     def __str__(self):
         return f'{self.name} | {self.position}'
@@ -56,15 +45,6 @@ if __name__ == '__main__':
 [![Pycharm](icons/PyCharm.png)](https://www.jetbrains.com/pycharm/)
 [![Nginx](icons/nginx.png)](https://nginx.org/)
 
-
-<h2 align="left">⚡ Ранг на Codewars:</h2>
-
-![Codewars rank](https://www.codewars.com/users/Amir2097/badges/large)
-
-<h2 align="left">:fire: Статистика:</h2>
-
-|<img align="center" src="https://github-readme-stats.vercel.app/api?username=Amir2097&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&text_color=999" alt="Amir's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir2097&layout=compact&hide_border=true&bg_color=00000000&text_color=999" />|
-| ------------- | ------------- |
 
 <h2 align="left">:heart: Всегда на связи:</h2>
 
